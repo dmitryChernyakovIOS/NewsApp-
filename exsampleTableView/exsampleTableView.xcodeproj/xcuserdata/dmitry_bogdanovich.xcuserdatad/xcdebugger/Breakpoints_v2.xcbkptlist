@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37146BD1-71DD-40E1-82E3-E25C4F0E3048"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23CEB500-D961-49A4-9243-EB025B9F47C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exsampleTableView/NewsPartApp/Models/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "APICaller"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "23CEB500-D961-49A4-9243-EB025B9F47C8 - e8bc68fb43923494"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exsampleTableView.APICaller.deinit"
+                  moduleName = "exsampleTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitry_bogdanovich/Desktop/dev2/calcul/dev2/cw15/exsampleTableView/exsampleTableView/NewsPartApp/Models/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "23CEB500-D961-49A4-9243-EB025B9F47C8 - 8a27789a7be44604"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exsampleTableView.APICaller.__deallocating_deinit"
+                  moduleName = "exsampleTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitry_bogdanovich/Desktop/dev2/calcul/dev2/cw15/exsampleTableView/exsampleTableView/NewsPartApp/Models/APICaller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3E79444-B494-4B60-9343-A7CBEC3CA7E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exsampleTableView/MainTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3E79444-B494-4B60-9343-A7CBEC3CA7E3 - a8907ded84a3df23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exsampleTableView.ViewController.searchBarSearchButtonClicked(__C.UISearchBar) -&gt; ()"
+                  moduleName = "exsampleTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitry_bogdanovich/Desktop/dev2/calcul/dev2/cw15/exsampleTableView/exsampleTableView/MainTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "B3E79444-B494-4B60-9343-A7CBEC3CA7E3 - 5573a56c69fb57f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;exsampleTableView.Article&gt;, Swift.Error&gt;) -&gt; () in exsampleTableView.ViewController.searchBarSearchButtonClicked(__C.UISearchBar) -&gt; ()"
+                  moduleName = "exsampleTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitry_bogdanovich/Desktop/dev2/calcul/dev2/cw15/exsampleTableView/exsampleTableView/MainTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "B3E79444-B494-4B60-9343-A7CBEC3CA7E3 - 7c21db0ce891105d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;exsampleTableView.Article&gt;, Swift.Error&gt;) -&gt; () in exsampleTableView.ViewController.searchBarSearchButtonClicked(__C.UISearchBar) -&gt; ()"
+                  moduleName = "exsampleTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitry_bogdanovich/Desktop/dev2/calcul/dev2/cw15/exsampleTableView/exsampleTableView/MainTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
